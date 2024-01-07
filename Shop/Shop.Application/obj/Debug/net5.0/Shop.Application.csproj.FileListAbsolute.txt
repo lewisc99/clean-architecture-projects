@@ -1,0 +1,11 @@
+C:\Users\Pichau\Downloads\study\Shop\Shop.Application\bin\Debug\net5.0\Shop.Application.deps.json
+C:\Users\Pichau\Downloads\study\Shop\Shop.Application\bin\Debug\net5.0\Shop.Application.dll
+C:\Users\Pichau\Downloads\study\Shop\Shop.Application\bin\Debug\net5.0\Shop.Application.pdb
+C:\Users\Pichau\Downloads\study\Shop\Shop.Application\obj\Debug\net5.0\Shop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Downloads\study\Shop\Shop.Application\obj\Debug\net5.0\Shop.Application.AssemblyInfoInputs.cache
+C:\Users\Pichau\Downloads\study\Shop\Shop.Application\obj\Debug\net5.0\Shop.Application.AssemblyInfo.cs
+C:\Users\Pichau\Downloads\study\Shop\Shop.Application\obj\Debug\net5.0\Shop.Application.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\study\Shop\Shop.Application\obj\Debug\net5.0\Shop.Application.dll
+C:\Users\Pichau\Downloads\study\Shop\Shop.Application\obj\Debug\net5.0\refint\Shop.Application.dll
+C:\Users\Pichau\Downloads\study\Shop\Shop.Application\obj\Debug\net5.0\Shop.Application.pdb
+C:\Users\Pichau\Downloads\study\Shop\Shop.Application\obj\Debug\net5.0\ref\Shop.Application.dll

@@ -1,0 +1,11 @@
+C:\Users\Pichau\Downloads\study\Shop\Shop.Infrastructure.IoC\bin\Debug\net5.0\Shop.Infrastructure.IoC.deps.json
+C:\Users\Pichau\Downloads\study\Shop\Shop.Infrastructure.IoC\bin\Debug\net5.0\Shop.Infrastructure.IoC.dll
+C:\Users\Pichau\Downloads\study\Shop\Shop.Infrastructure.IoC\bin\Debug\net5.0\Shop.Infrastructure.IoC.pdb
+C:\Users\Pichau\Downloads\study\Shop\Shop.Infrastructure.IoC\obj\Debug\net5.0\Shop.Infrastructure.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Downloads\study\Shop\Shop.Infrastructure.IoC\obj\Debug\net5.0\Shop.Infrastructure.IoC.AssemblyInfoInputs.cache
+C:\Users\Pichau\Downloads\study\Shop\Shop.Infrastructure.IoC\obj\Debug\net5.0\Shop.Infrastructure.IoC.AssemblyInfo.cs
+C:\Users\Pichau\Downloads\study\Shop\Shop.Infrastructure.IoC\obj\Debug\net5.0\Shop.Infrastructure.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\study\Shop\Shop.Infrastructure.IoC\obj\Debug\net5.0\Shop.Infrastructure.IoC.dll
+C:\Users\Pichau\Downloads\study\Shop\Shop.Infrastructure.IoC\obj\Debug\net5.0\refint\Shop.Infrastructure.IoC.dll
+C:\Users\Pichau\Downloads\study\Shop\Shop.Infrastructure.IoC\obj\Debug\net5.0\Shop.Infrastructure.IoC.pdb
+C:\Users\Pichau\Downloads\study\Shop\Shop.Infrastructure.IoC\obj\Debug\net5.0\ref\Shop.Infrastructure.IoC.dll

@@ -1,0 +1,11 @@
+C:\Users\Pichau\Downloads\study\BuderDinner\BuberDinner.Contracts\bin\Debug\net5.0\BuberDinner.Contracts.deps.json
+C:\Users\Pichau\Downloads\study\BuderDinner\BuberDinner.Contracts\bin\Debug\net5.0\BuberDinner.Contracts.dll
+C:\Users\Pichau\Downloads\study\BuderDinner\BuberDinner.Contracts\bin\Debug\net5.0\BuberDinner.Contracts.pdb
+C:\Users\Pichau\Downloads\study\BuderDinner\BuberDinner.Contracts\obj\Debug\net5.0\BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Downloads\study\BuderDinner\BuberDinner.Contracts\obj\Debug\net5.0\BuberDinner.Contracts.AssemblyInfoInputs.cache
+C:\Users\Pichau\Downloads\study\BuderDinner\BuberDinner.Contracts\obj\Debug\net5.0\BuberDinner.Contracts.AssemblyInfo.cs
+C:\Users\Pichau\Downloads\study\BuderDinner\BuberDinner.Contracts\obj\Debug\net5.0\BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\study\BuderDinner\BuberDinner.Contracts\obj\Debug\net5.0\BuberDinner.Contracts.dll
+C:\Users\Pichau\Downloads\study\BuderDinner\BuberDinner.Contracts\obj\Debug\net5.0\refint\BuberDinner.Contracts.dll
+C:\Users\Pichau\Downloads\study\BuderDinner\BuberDinner.Contracts\obj\Debug\net5.0\BuberDinner.Contracts.pdb
+C:\Users\Pichau\Downloads\study\BuderDinner\BuberDinner.Contracts\obj\Debug\net5.0\ref\BuberDinner.Contracts.dll

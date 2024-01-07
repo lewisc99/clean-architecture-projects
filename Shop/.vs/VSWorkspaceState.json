@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Shop.Infra.Data",
+    "\\Shop.Infra.Data\\Context"
+  ],
+  "SelectedNode": "\\Shop.Infra.Data\\Context\\AppDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
